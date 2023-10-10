@@ -1,7 +1,7 @@
 function AboutPage() {
   return (
     <section className="container m-auto px-6 mt-8">
-      <h1 className="text-center mb-8 sm:text-4xl text-2xl  font-bold">
+      <h1 className="text-center mb-8 sm:text-4xl text-2xl font-bold">
         Welcome To About Page
       </h1>
       <div className="w-full flex bg-slate-100 flex-col md:flex-row rounded-2xl md:overflow-hidden shadow-lg">
